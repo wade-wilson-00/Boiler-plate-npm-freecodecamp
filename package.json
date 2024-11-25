@@ -1,5 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author":"Siyabulela Mncube",
+	"description": "Managing packages with NPM",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
