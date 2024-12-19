@@ -9,6 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
+		"author": "Kevin Kimutai",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
