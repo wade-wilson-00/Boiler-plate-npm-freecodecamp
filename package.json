@@ -9,6 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
+		"author": "Jane Doe",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	}
 }
