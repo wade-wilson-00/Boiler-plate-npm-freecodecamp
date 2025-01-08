@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme",
   "version": "1.0.0",
-  "keywords": [],
+  "keywords": ["boilerplate", "npm", "freecodecamp"],
   "author": "Sofia Ribeiro",
   "license": "ISC"
 }
