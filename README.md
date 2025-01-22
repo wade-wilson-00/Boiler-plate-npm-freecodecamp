@@ -2,10 +2,10 @@
 
 This is the boilerplate code for the Managing Packages With npm Challenges. Instructions for working on these challenges start at https://www.freecodecamp.org/learn/back-end-development-and-apis/managing-packages-with-npm/
 
-"dependencies": {
+# "dependencies": {
 
-"@freecodecamp/example": "^1.2.13",
-  MAJOR.MINOR.PATCH
-  ~ to upgrade PATCH
-  ^ to upgrade MINOR
-  },
+ # "@freecodecamp/example": "^1.2.13",
+   #  MAJOR.MINOR.PATCH
+   # ~ to upgrade PATCH
+  # ^ to upgrade MINOR
+# },
