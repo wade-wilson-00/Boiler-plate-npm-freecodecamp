@@ -7,5 +7,5 @@ This is the boilerplate code for the Managing Packages With npm Challenges. Inst
  # "@freecodecamp/example": "^1.2.13",
    #  MAJOR.MINOR.PATCH
    # ~ to upgrade PATCH
-  # ^ to upgrade MINOR
+   # ^ to upgrade MINOR
 # },
