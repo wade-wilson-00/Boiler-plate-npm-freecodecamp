@@ -1,14 +1,27 @@
 {
-	"name": "fcc-learn-npm-package-json",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+  "name": "fcc-learn-npm-package-json",
+  "author": "tofa7a",
+  "description": "That's first time learning coding in package.json",
+  "keywords": [
+    "backend",
+    "nodejs",
+    "package.json",
+    "npm",
+    "freecodecamp"
+  ],
+  "license": "MIT",
+  "version": "1.0.1",
+  "dependencies": {
+        "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  }
 }
+
+
